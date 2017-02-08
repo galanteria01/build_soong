@@ -164,6 +164,10 @@ var BannerVars = []string{
 	"TARGET_BUILD_PDK",
 	"PDK_FUSION_PLATFORM_ZIP",
 	"PRODUCT_SOONG_NAMESPACES",
+<<<<<<< HEAD
+=======
+	"WITH_SU",
+>>>>>>> 0cf1d1cb (Add dumpvars for WITH_SU and WITH_GMS)
 	"WITH_GMS",
 }
 
